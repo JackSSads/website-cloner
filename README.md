@@ -1,4 +1,4 @@
-# Clonador de Website
+# Gerador de clones de Website
 
 Este é um script de scraping desenvolvido em JavaScript ES6 com propósitos educacionais, sem a intenção de promover atividades ilegais.
 
